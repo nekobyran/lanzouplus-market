@@ -1,1 +1,13 @@
-{"schema":1,"version":0,"announcements":[]}
+{
+  "schema": 1,
+  "version": 1,
+  "announcements": [
+    {
+      "id": "ann_vOOBUdx-k9cenRaN",
+      "title": "这是一个标题",
+      "body": "文本",
+      "publishedAt": "2026-10-25T16:30:59.541194345Z",
+      "updatedAt": "2026-10-25T16:30:59.541194345Z"
+    }
+  ]
+}
