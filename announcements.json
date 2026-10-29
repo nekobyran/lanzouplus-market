@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "version": 1,
+  "version": 2,
   "announcements": [
+    {
+      "id": "ann_TxatFBqJ5LRfxuyw",
+      "title": "征求仓库上传",
+      "body": "市场右上角的中间那个按钮可以进入仓库编辑页面，可以创建你自己的仓库源，然后打包成压缩包供github上传，你也可以直接登录github仓库一键创建仓库上传，上传仓库不代表上传到市场了，你需要上传你的github链接才是上传到市场（市场右上角第一个按钮），市场每七天合并一次上传的源",
+      "publishedAt": "2026-10-29T15:33:23.695767005Z",
+      "updatedAt": "2026-10-29T15:33:23.695767005Z"
+    },
     {
       "id": "ann_vOOBUdx-k9cenRaN",
       "title": "这是一个标题",
