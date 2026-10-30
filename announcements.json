@@ -1,7 +1,14 @@
 {
   "schema": 1,
-  "version": 2,
+  "version": 3,
   "announcements": [
+    {
+      "id": "ann_lQB2k24RcM8k8b75",
+      "title": "我算是知道为什么没人上传仓库了",
+      "body": "发现上传仓库遇到问题，下个版本新增反馈功能，可以直接在设置里反馈问题",
+      "publishedAt": "2026-10-30T15:46:13.701841791Z",
+      "updatedAt": "2026-10-30T15:46:13.701841791Z"
+    },
     {
       "id": "ann_TxatFBqJ5LRfxuyw",
       "title": "征求仓库上传",
