@@ -11,6 +11,10 @@
 
 `schema` 为 1，`version` 为递增整数，`announcements` 为数组。每项包含 `id`、`title`、`body`、`publishedAt`、`updatedAt`，时间采用 UTC ISO 8601。
 
+## 仓库索引
+
+索引发布在所属仓库的 `lzpmarket.json` 中。可选的 `index` 对象包含 `url`（HTTPS 直链）、`builtAt`（毫秒时间戳）、`entryCount`、`sourceCount`、`coveredSourceCount` 和 `size`（字节）。市场清单的仓库条目可以带同一份索引摘要。Android 客户端在仓库详情显示和安装索引，索引文件支持 JSON 和 gzip。
+
 ## 参考
 
 目录与上游内容分离的组织方式参考 [AstrBot 插件目录](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection)。本仓库不收集安装包，也不存储管理员凭据或投稿检测码实现。
